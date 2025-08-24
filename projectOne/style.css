@@ -51,7 +51,7 @@ height: 320px;
 .about_section p{
   font-size: 20px;
   line-height: 25px;
-  letter-spacing: 1.1px;
+  letter-spacing: 1.1px; /*used for space between two lines in a paragraph*/
   text-align: justify;
 }
 .biography_section{
